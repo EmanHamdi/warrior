@@ -1,0 +1,170 @@
+
+
+
+.box .content h2{color:#ffffff; font-size: 1.2em;}
+.border-bottom {
+	border-bottom: none !important;
+}
+.marRight30 {
+	margin-right: 30px;
+}
+.button {
+    background-color:#E6D61A ;
+    border: 0;
+	a {
+		font-family: 'Oswald', sans-serif;
+		font-size: 14px;
+		text-transform: uppercase;
+		text-decoration: none;
+		color: #104f94;
+		&:hover {
+			color: #fff;
+		}
+	}
+}
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+.page-wrapper {
+	width: 960px;
+	margin: 0 auto;
+	margin-top: -70px;
+}
+.wrapper2 {
+	width: 760px;
+	margin-bottom: 60px;
+	overflow: hidden;
+	margin-left: -8%;
+}
+.banner-wrapper {
+	background: #000;
+	overflow: hidden;
+}
+.banner {
+	width: 1110px;
+	margin: 0 auto;
+	padding-top: 60px;
+	overflow: hidden;
+	img {
+		float: right;
+		margin-top: 30px;
+		width: 70%;
+	}
+	.content {
+		float: left;
+		overflow: hidden;
+		position: absolute;
+		overflow: hidden;
+		.title {
+			float: left;
+			h1 {
+				font-size: 60px;
+				color: #E6D61A;
+				font-weight: normal;
+				margin-top: 75px;
+			}
+			span {
+				color: #ffffff;
+				font-size: 32px;
+			}
+		}
+		p {
+			display: inline-block !important;
+			width: 43% !important;
+		}
+		.button {
+			a {
+				font-family: 'Oswald', sans-serif;
+				font-size: 20px;
+				text-transform: uppercase;
+				text-decoration: none;
+				color: #ffc01d;
+				&:hover {
+					color: #104f94;
+				}
+			}
+		}
+	}
+}
+
+	.banner {
+		.content {
+			.button {
+				width: 170px;
+				height: 50px;
+				text-align: center;
+				line-height: 50px;
+				margin-top: 50px;
+				margin-bottom: 116px;
+				&:hover {
+					width: 170px;
+					height: 50px;
+					text-align: center;
+					line-height: 50px;
+					margin-top: 50px;
+					margin-bottom: 116px;
+				}
+			}
+		}
+	}
+
+.page-content {
+	background: #1664b9;
+	overflow: hidden;
+}
+.page {
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 130px;
+}
+.panel {
+	width: 100%;
+	padding-bottom: 30px;
+	.title {
+		margin-bottom: 30px;
+		h1 {
+			color: #E6D61A;
+			text-transform: uppercase;
+		}
+		h2 {
+			color: #fff;
+			font-size: 16px;
+		}
+	}
+	.content {
+		p {
+			color: #9ac5f5;
+			padding-bottom: 20px;
+		}
+	}
+}
+.box {
+	width: 24%;
+	overflow: hidden;
+	float: left;
+	padding: 20px 20px 29px 20px;
+	margin-right: 3px;
+	.icon {
+		float: left;
+		margin-right: 20px;
+	}
+	.content {
+		float: left;
+		h2 {
+			color: #000;
+		}
+	}
+}
+.bg-color1 {
+	background: #ffffff;
+}
+.bg-color2 {
+	background: #ffffff;
+}
+.bg-color3 {
+	background: #ffffff;
+}
+
+
+
